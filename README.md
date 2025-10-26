@@ -1,4 +1,4 @@
-<h3 align="left">Tools:</h3>
+<h3 align="left">Tools & OS:</h3>
 <p align="left"> 
   <!-- Editors -->
   <a href="https://neovim.io/" target="_blank" rel="noreferrer"> 
