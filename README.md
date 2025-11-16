@@ -1,6 +1,3 @@
-<p align="left">
-  <img src="https://media.tenor.com/_6N6J2xPY_wAAAAj/tux-linux.gif" alt="Tux Linux" width="100" />
-</p>
 <h3 align="left">Tools & OS :</h3>
 
 <p align="left"> 
